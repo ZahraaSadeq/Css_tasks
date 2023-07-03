@@ -1,0 +1,24 @@
+/*not valid*/
+-_my.div {
+}
+/*not valid */
+--my-div {
+}
+/*not valid */
+-12my-div {
+}
+/*not valid */
+-%my-div {
+}
+/*not valid */
+-@my-div {
+}
+/*not valid */
+-my @div {
+}
+/*valid */
+-my78div {
+}
+/* valid */
+-div {
+}
