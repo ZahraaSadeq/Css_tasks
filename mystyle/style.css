@@ -1,0 +1,19 @@
+.d1{
+    
+    width: 400px;
+background-color:plum ;
+padding: 10px;
+margin: 10px;
+}
+.d2{
+    width: 400px;
+    background-color: rgb(196, 80, 80);
+    padding: 10px;
+    margin: 10px;
+}
+.d3 {
+    width: 400px;
+    background-color: #ffc0cb;
+    padding: 10px;
+    margin: 10px;
+}
