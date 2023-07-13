@@ -1,0 +1,33 @@
+body{
+    background-image: url(pack.jpg);
+    background-size:cover; 
+}
+.d1{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d2{
+ 
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d3{
+ 
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-image: url(pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
