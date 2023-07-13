@@ -1,0 +1,31 @@
+.dev1{
+height: 400px;
+width: 400px;
+
+background-image: url(picture.jpg);
+background-repeat: no-repeat;
+}
+.dev2{
+    height: 400px;
+    width: 400px;
+    
+    background-image: url(picture.jpg);
+    background-repeat: repeat-y ;
+    background-position: right;
+    }
+.dev3{
+height: 400px;
+width: 400px;
+
+background-image: url(picture.jpg);
+background-repeat: repeat-x;
+background-position: bottom;
+}
+.dev4{
+    height: 400px;
+    width: 400px;
+    
+    background-image: url(picture.jpg);
+    
+    }
+        
