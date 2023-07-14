@@ -1,0 +1,35 @@
+.sq1{
+   
+    height: 400px;
+    width: 320px;
+    border: 5px solid red;
+    padding: 10px 40px 10px 20px;
+    display: inline-block;
+    
+     
+}
+.sq2{
+    height: 380px;
+    width: 333px;
+    padding: 20px 30px 10px 15px;
+    color: aliceblue;
+    background-color: rgb(119, 40, 133);
+    border-style: none dotted none dashed;
+    border-color: red;
+    border-width: 0px 5px 0px 5px ;
+    display: inline-block;
+
+   
+    
+}
+.sq3{
+    height: 410px;
+    width: 340px;
+    padding:1px 10px 10px 20px;
+    color: aliceblue;
+    background-color: rgb(172, 150, 175);
+    border-top: 5px dashed red ;
+    border-bottom: 5px solid red ;
+    display: inline-block;
+   
+}
